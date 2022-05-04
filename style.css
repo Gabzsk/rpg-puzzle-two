@@ -43,7 +43,8 @@ h1{
     border: none;
     outline: none;
     background: transparent;
-    color: black
+    color: black;
+    margin: 8px 0;
 }
 
 ::placeholder{
